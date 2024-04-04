@@ -1,5 +1,5 @@
 // gotta use an API_KEY
-import { API_KEY } from '/config.js';
+import { API_KEY } from '../config.js';
 // bring in urls
 var url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson'
 var tectonic_url = 'https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json'
