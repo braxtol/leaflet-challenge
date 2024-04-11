@@ -1,4 +1,4 @@
 // MAPBOX API KEY
 
-const API_KEY = "pk.eyJ1IjoiYnJheHRvbCIsImEiOiJjbHVrZHdxYWwwOGlsMmptd3Q4N3drcDQ5In0.jrpZZfLX37JnB1EfwwhLow";
+const API_KEY = "deleted_mo_fos_hahahaha";
 export { API_KEY };
